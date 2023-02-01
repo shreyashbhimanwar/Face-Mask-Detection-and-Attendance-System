@@ -1,8 +1,8 @@
 # Face-Mask-Detection-and-Attendance-System
 
 ## This Project contains two sections:
-- Mask recognition
-- Face detection and attendance tracking in an attendance sheet.
+- Mask detection
+- Face recognition and attendance tracking in an attendance sheet.
 
 
 ## Usage:-
