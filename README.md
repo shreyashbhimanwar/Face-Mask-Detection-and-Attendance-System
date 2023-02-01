@@ -5,7 +5,7 @@
 - Face recognition and attendance tracking in an attendance sheet.
 
 
-## Usage:-
+## Usage:
 
 - Open CMD in working directory.
   Install the python packages using `pip install`
