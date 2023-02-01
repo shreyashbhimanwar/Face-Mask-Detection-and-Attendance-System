@@ -13,8 +13,8 @@
   install the python packages using pip install
   
 - `final.py` is the main Python file of Face-Mask-Detection-and-Attendance-System
-- Dataset used is given in the repository under face-detector/dataset and face-mask-detector/dataset
-- Our best model is saved in the folder face-detector and face-mask-detector respectively
+- Dataset used is given in the repository under `face-detector/dataset` and `face-mask-detector/dataset`
+- Our best model is saved in the folder `face-detector` and `face-mask-detector` respectively
 - To use our detection model and attendance system, run:
 ```
 python final.py
