@@ -1,0 +1,23 @@
+# Face-Mask-Detection-and-Attendance-System
+
+## This Project contains two sections
+## First Section consists of Mask Detection
+## Second Section consists of detecting the face and updating the attendace in attendance sheet
+
+
+## Usage:-
+
+- Open CMD in working directory.
+- Run following command.
+
+  install the python packages using pip install
+  
+- `final.py` is the main Python file of Face-Mask-Detection-and-Attendance-System
+- Dataset used is given in the repository under face-detector/dataset and face-mask-detector/dataset
+- Our best model is saved in the folder face-detector and face-mask-detector respectively
+- To use our detection model and attendance system, run:
+```
+python final.py
+- press 'q' after mask detection
+- press 'y' after face detection
+- attendace is recorded in `attendance.xlsx` file.
