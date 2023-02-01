@@ -1,8 +1,8 @@
 # Face-Mask-Detection-and-Attendance-System
 
-## This Project contains two sections
-### First Section consists of Mask Detection
-### Second Section consists of detecting the face and updating the attendace in attendance sheet
+## This Project contains two sections:
+- First Section consists of Mask Detection
+- Second Section consists of detecting the face and updating the attendace in attendance sheet
 
 
 ## Usage:-
